@@ -1,0 +1,22 @@
+Cant edit owner address - I get an error
+
+Cant delete service , get an error saying need to be unique
+
+Refresh a list after deleting values
+
+How to display the Details or Coresponding attributes accoording to a giivenn ID. Ex- Service Table ;- Instead of having to pick a number 
+would be better if i could display the make and model of the car allong with the owner of it and the service description. 
+need to apply for :- Servicetypeequip form, service form,etc
+
+
+
+
+Note: When I tried to give display member/ value member to combobox it gives an issue when selecting an object
+
+
+
+Where can i find code to make a custom view (data fields from differenct tables put into one table)
+
+
+
+*** Wierd issue when running invoice
